@@ -1,0 +1,2 @@
+# Local pnpm configuration
+store-dir=.pnpm-store
